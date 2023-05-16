@@ -1,0 +1,43 @@
+Name: Mingzhe Piao
+USC ID: 2538642079
+News site crawled: usatoday.com
+Number of threads: 7
+
+Fetch Statistics
+================
+fetches attempted: 20000
+fetches succeeded: 18515
+fetches failed or aborted: 1485
+
+Outgoing URLs:
+==============
+Total URLs extracted: 2435266
+unique URLs extracted: 931352
+unique URLs within News Site: 746667
+unique URLs outside News Site: 184685
+
+Status Codes:
+=============
+200 OK: 18515
+301 Moved Permanently: 778
+302 Found: 655
+303 See Other: 1
+307 Temporary Redirect: 44
+308 Permanent Redirect: 2
+404 Not Found: 3
+500 Internal Server Error: 2
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 96
+10KB ~ <100KB: 678
+100KB ~ <1MB: 17500
+>= 1MB: 4
+
+Content Types:
+==============
+text/html: 17748
+image/jpeg: 320
+image/png: 206
+image/webp: 4

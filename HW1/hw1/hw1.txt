@@ -1,0 +1,12 @@
+From my queries data, the average percent overlap and the average Spearman coefficient are 20.8% and -10.09 respectively. 
+
+The result indicates that there is a huge difference between the search engine algorithm of Google and Duckduckgo.
+These numbers cannot certify which search engine is better or worse, but can only show extremely different algorithms ave adopted.
+
+However, if we use Google as our standard of relevance, the Duckduckgo may seem very bad. 
+Only 2 in average of the top 10 queries are matched. 
+And from the spearman coefficient, it becomes much worse. 
+Since the coefficient of a Search Engine with totally different (0 match) queries is 0, while, for Duckduckgo is -10.09.
+Thus, Duckduckgo's query results have a very negative monotonic relationship with the standard, indicating that its has a bad algorithm.
+
+by Mingzhe Piao
